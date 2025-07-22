@@ -1,5 +1,9 @@
 function Order() {
-  return <div></div>;
+  return (
+    <div>
+      <p>This is your Order.</p>
+    </div>
+  );
 }
 
 export default Order;

@@ -1,5 +1,9 @@
 function CreateOrder() {
-  return <div></div>;
+  return (
+    <div>
+      <p>Create your order.</p>
+    </div>
+  );
 }
 
 export default CreateOrder;

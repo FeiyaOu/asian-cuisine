@@ -1,5 +1,9 @@
 function CartNew() {
-  return <div></div>;
+  return (
+    <div>
+      <p>This is Cart.</p>
+    </div>
+  );
 }
 
 export default CartNew;
