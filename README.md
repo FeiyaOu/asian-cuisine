@@ -1,4 +1,4 @@
-# This is a project from Udemy online React course with Jonas Schmedtmann
+# This is a practice project designed by me
 
 # React + Vite
 
