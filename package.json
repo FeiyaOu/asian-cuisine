@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://feiyaou.github.io/asian-cuisine/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
