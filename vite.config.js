@@ -11,12 +11,4 @@ const __dirname = path.dirname(__filename);
 export default defineConfig({
   base: '/asian-cuisine/',
   plugins: [react(), eslint()],
-  build: {
-    rollupOptions: {
-      input: {
-        main: path.resolve(__dirname, 'index.html'),
-        fallback: path.resolve(__dirname, '404.html'), // 👈 Add this!
-      },
-    },
-  },
 });
